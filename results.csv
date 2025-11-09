@@ -1,0 +1,16 @@
+File, Filter, PSNR
+belka.pgm,3x3,95 %
+belka.pgm,5x5,89 %
+belka.pgm,7x7,81 %
+bones.pgm,3x3,84 %
+bones.pgm,5x5,73 %
+bones.pgm,7x7,67 %
+dog.pgm,3x3,99 %
+dog.pgm,5x5,97 %
+dog.pgm,7x7,94 %
+egg.pgm,3x3,96 %
+egg.pgm,5x5,95 %
+egg.pgm,7x7,94 %
+mike.pgm,3x3,96 %
+mike.pgm,5x5,93 %
+mike.pgm,7x7,90 %
